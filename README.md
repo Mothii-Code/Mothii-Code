@@ -1,7 +1,4 @@
-- 👋 Salut je suis ✨ Mothii ✨
-- 💻 Je développe du web et des bots discord.
-- 💲 Je développe gratuitement
-- 📫 Tu peux me contacter sur Discord Mothii#3199
+cc
 
 <!---
 Mothii-Code/Mothii-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
